@@ -1,4 +1,9 @@
-<h1 align="center">Complete Intro to Computer Science: Algorithms and Data Structures</h1> <br>
+## Complete Intro to Computer Science: Algorithms and Data Structures
+
+- These are my personal notes and takeaways to the course of Brian Holt. Some parts are exactly the same sentence as said by him, so keep that in mind when going through the repo.
+- Below is the original README with information to his website, course and repo.
+
+----
 
 <p align="center">
  As taught by Brian Holt for Frontend Masters
